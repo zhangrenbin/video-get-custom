@@ -80,3 +80,7 @@
 - **MCN机构**：批量管理账号、采集作者作品
 - **个人创作者**：找对标、拆爆款、提升效率
 - **私域引流团队**：批量互动、私信触达
+
+## 可加微信了解试用
+<img width="534" height="528" alt="image" src="https://github.com/user-attachments/assets/538417d9-6bba-4723-964c-e5dd6934facd" />
+
