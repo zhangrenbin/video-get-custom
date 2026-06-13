@@ -81,7 +81,7 @@
 - **个人创作者**：找对标、拆爆款、提升效率
 - **私域引流团队**：批量互动、私信触达
 ## 五、系统截图
-![]([https://example.com/image.jpg](https://github.com/zhangrenbin/video-get-custom/blob/main/1.png))
+![](https://github.com/zhangrenbin/video-get-custom/blob/main/1.png?raw=true)
 
 
 ## 联系方式QQ： 412968520
