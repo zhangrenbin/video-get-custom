@@ -82,7 +82,15 @@
 - **私域引流团队**：批量互动、私信触达
 ## 五、系统截图
 ![](https://github.com/zhangrenbin/video-get-custom/blob/main/1.png?raw=true)
-
+![](https://github.com/zhangrenbin/video-get-custom/blob/main/2.png?raw=true)
+![](https://github.com/zhangrenbin/video-get-custom/blob/main/3.png?raw=true)
+![](https://github.com/zhangrenbin/video-get-custom/blob/main/4.png?raw=true)
+![](https://github.com/zhangrenbin/video-get-custom/blob/main/5.png?raw=true)
+![](https://github.com/zhangrenbin/video-get-custom/blob/main/6.png?raw=true)
+![](https://github.com/zhangrenbin/video-get-custom/blob/main/7.png?raw=true)
+![](https://github.com/zhangrenbin/video-get-custom/blob/main/8.png?raw=true)
+![](https://github.com/zhangrenbin/video-get-custom/blob/main/9.png?raw=true)
+![](https://github.com/zhangrenbin/video-get-custom/blob/main/10.png?raw=true)
 
 ## 联系方式QQ： 412968520
 
